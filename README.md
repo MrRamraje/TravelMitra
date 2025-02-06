@@ -22,7 +22,7 @@ TravelMitra is a web application that emulates the functionality of Airbnb. It a
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/TravelMitra.git
+   git clone https://github.com/MrRamraje/TravelMitra.git
    cd TravelMitra
    ```
 
